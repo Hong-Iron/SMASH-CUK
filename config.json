@@ -20,5 +20,58 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "김수환추기경국제관": {
+      "style": "ribbon",
+      "wall": "#cf7b57",
+      "glass": "#2f5a70",
+      "frame": "#b7b9b8"
+    },
+    "가톨릭대학교 성심교정 제2국제관(안드레아 기숙사)": {
+      "style": "dorm",
+      "wall": "#c17d6c",
+      "glass": "#3a3f45",
+      "frame": "#e2dcd4"
+    },
+    "니콜스관": {
+      "style": "brick",
+      "wall": "#8e4a3e",
+      "glass": "#3a4248",
+      "frame": "#ece6de"
+    },
+    "다솔관(9동)": {
+      "style": "brick",
+      "wall": "#8a4a40",
+      "glass": "#3a5566",
+      "frame": "#d8d0c8"
+    },
+    "미카엘관": {
+      "style": "stone",
+      "wall": "#d6d1c6",
+      "glass": "#2f3a3d",
+      "frame": "#9a9a95"
+    },
+    "베리타스관 - 중앙도서관": {
+      "style": "stone",
+      "wall": "#dcd8cf",
+      "glass": "#3c4a4c",
+      "frame": "#8f9a98",
+      "hip": true,
+      "roof": "#7f9a8c"
+    },
+    "정진적추기경 약학관": {
+      "style": "brick",
+      "wall": "#8c4a3c",
+      "glass": "#2d4f80",
+      "frame": "#8a8f95"
+    },
+    "콘서트홀": {
+      "style": "ribbon",
+      "wall": "#b5563f",
+      "glass": "#4a5a60",
+      "frame": "#e6e4df"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
