@@ -1,0 +1,34 @@
+{
+ "region": "경기 부천시 원미구 역곡동",
+ "nameEn": "The Catholic University of Korea Songsim Campus",
+ "added": "2026-10-24",
+ "rank": 123,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "STU",
+   "campus": "서울신학대학교",
+   "km": 1.3
+  },
+  {
+   "code": "YUHAN",
+   "campus": "유한대학교",
+   "km": 1.7
+  },
+  {
+   "code": "BUCHEON",
+   "campus": "부천대학교",
+   "km": 2.0
+  },
+  {
+   "code": "SKHU",
+   "campus": "성공회대학교",
+   "km": 2.1
+  },
+  {
+   "code": "BUCHEON-SOSA",
+   "campus": "부천대학교 소사캠퍼스",
+   "km": 2.5
+  }
+ ]
+}
